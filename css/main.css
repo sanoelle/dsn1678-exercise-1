@@ -28,4 +28,19 @@ body {
 img {
   display: block;
   width: 100%;
+  position:relative;
+}
+
+.caption{
+	background-color:#000000;
+	opacity: 0.4;
+	color:#ffffff;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	
+}
+
+.sub-title{
+	color: #9F9F9F;
+	text-transform:uppercase;
+	font-size:14px;
 }
