@@ -36,11 +36,39 @@ img {
 	opacity: 0.4;
 	color:#ffffff;
 	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-	
+}
+
+/*
+.info{
+	padding:1em;
+	margin-top:-2em;
+}*/
+
+.main-title{
+	font-size:24px;
+	padding-left: 1em;
 }
 
 .sub-title{
 	color: #9F9F9F;
 	text-transform:uppercase;
 	font-size:14px;
+}
+
+.content{
+	margin-top: -.5em;
+}
+
+.category{
+	float: left;
+	padding-right: 2em;
+	padding-left:2em;
+}
+
+.category-mid{
+	float: left;
+	padding-right: 2em;
+	padding-left:2em;
+	border-left:solid #CCC thin;
+	border-right:solid #CCC thin;
 }
